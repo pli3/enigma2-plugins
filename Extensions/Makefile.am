@@ -1,1 +1,1 @@
-SUBDIRS = 1channel MyTube nStreamVOD OpenUitzendingGemist PermanentTimeshift UShare PPanel
+SUBDIRS = 1channel MyTube nStreamVOD OpenUitzendingGemist PermanentTimeshift UShare PPanel CoolTVGuide
