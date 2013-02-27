@@ -48,6 +48,7 @@ Extensions/nStreamVOD/img/Makefile
 Extensions/nStreamVOD/img/playlist/Makefile
 Extensions/nStreamVOD/Moduls/Makefile
 Extensions/1channel/Makefile
+Extensions/CoolTVGuide/Makefile
 Extensions/MyTube/Makefile
 Extensions/MyTube/meta/Makefile
 Extensions/MyTube/src/Makefile
