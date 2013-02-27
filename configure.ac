@@ -50,6 +50,7 @@ Extensions/nStreamVOD/Moduls/Makefile
 Extensions/1channel/Makefile
 Extensions/CoolTVGuide/Makefile
 Extensions/CoolTVGuide/Components/Makefile
+Extensions/CoolTVGuide/Components/Renderer/Makefile
 Extensions/CoolTVGuide/Cool3D/Makefile
 Extensions/CoolTVGuide/Cool3D/Menu/Makefile
 Extensions/CoolTVGuide/Cool3D/MyDesign/Makefile

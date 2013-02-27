@@ -1,5 +1,3 @@
-installdir = $(LIBDIR)/enigma2/python/Components/Renderer
+installdir = $(LIBDIR)/enigma2/python/Plugins/Extensions/CoolTVGuide/Components
 
-install_PYTHON = \
-				 CoolNextEvent.pyo \
-				 CoolPico.pyo
+SUBDIRS = Renderer
