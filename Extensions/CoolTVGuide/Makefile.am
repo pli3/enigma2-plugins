@@ -11,4 +11,4 @@ install_PYTHON = \
 	CoolTVGuide.png \
 	CoolChannelGuide.pyo
 
-install_DATA = keymap.xml maintainer.info
+install_DATA = keymap.xml maintainer.info LICENSE
