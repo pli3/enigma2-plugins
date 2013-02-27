@@ -57,8 +57,6 @@ Extensions/CoolTVGuide/CoolSkin/Makefile
 Extensions/CoolTVGuide/locale/Makefile
 Extensions/CoolTVGuide/locale/bg/Makefile
 Extensions/CoolTVGuide/locale/bg/LC_MESSAGES/Makefile
-Extensions/CoolTVGuide/locale/bg/Makefile
-Extensions/CoolTVGuide/locale/bg/LC_MESSAGES/Makefile
 Extensions/CoolTVGuide/locale/cs/Makefile
 Extensions/CoolTVGuide/locale/cs/LC_MESSAGES/Makefile
 Extensions/CoolTVGuide/locale/de/Makefile
