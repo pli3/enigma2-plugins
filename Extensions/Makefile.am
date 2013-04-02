@@ -1,1 +1,1 @@
-SUBDIRS = 1channel MyTube nStreamVOD OpenUitzendingGemist PermanentTimeshift UShare PPanel AutoBouquets 
+SUBDIRS = 1channel MyTube nStreamVOD OpenUitzendingGemist PermanentTimeshift UShare PPanel
