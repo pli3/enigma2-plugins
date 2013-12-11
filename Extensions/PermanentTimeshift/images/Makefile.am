@@ -1,6 +1,6 @@
 installdir = $(LIBDIR)/enigma2/python/Plugins/Extensions/PermanentTimeshift/images
 
-SUBDIR = icon now
+SUBDIRS = icon now
 
 install_DATA = \
 			   slider.png \
