@@ -1,0 +1,429 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-04 19:59+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugin.py:1257
+msgid ""
+"\n"
+"An Input/output error usually indicates a corrupted filesystem! Please check "
+"the filesystem of your timeshift-device!"
+msgstr ""
+
+#: plugin.py:769
+msgid ""
+"\n"
+"The Timeshift record event was not over yet!"
+msgstr ""
+
+#: plugin.py:1187
+#, python-format
+msgid "%s (timeshift)"
+msgstr ""
+
+#: plugin.py:2070
+msgid ""
+"A recording is currently running.\n"
+"What do you want to do?"
+msgstr ""
+
+#: plugin.py:2153
+msgid "Activate permanent timeshift plugin"
+msgstr ""
+
+#: plugin.py:76
+msgid "Ask user"
+msgstr ""
+
+#: plugin.py:2174
+msgid "Behavior key long stop"
+msgstr ""
+
+#: plugin.py:2166
+msgid "Behavior on start timeshift"
+msgstr ""
+
+#: plugin.py:2190
+msgid "Beta: Enable Permanent Recording?"
+msgstr ""
+
+#: plugin.py:2140
+msgid "Cancel"
+msgstr ""
+
+#: plugin.py:1628
+msgid ""
+"Could not activate Permanent-Timeshift!\n"
+"Timeshift-Path does not exist"
+msgstr ""
+
+#: plugin.py:347
+msgid "Creating AP and SC Files"
+msgstr ""
+
+#: plugin.py:1238 plugin.py:1258
+msgid "Creating Hardlink to Timeshift file failed!"
+msgstr ""
+
+#: plugin.py:888
+msgid "Current Event:"
+msgstr ""
+
+#: plugin.py:76
+msgid "Don't save"
+msgstr ""
+
+#: plugin.py:871
+msgid "Don't save Timeshift as Movie"
+msgstr ""
+
+#: plugin.py:2226
+msgid ""
+"Duration for service without EPG more time than max length event!\n"
+"Please change the settings!"
+msgstr ""
+
+#: plugin.py:1177
+msgid "Getting Event Info failed!"
+msgstr ""
+
+#: plugin.py:2184
+msgid "Indicator color"
+msgstr ""
+
+#: plugin.py:2183
+msgid "Indicator mode"
+msgstr ""
+
+#: plugin.py:80
+msgid "Live TV"
+msgstr ""
+
+#: plugin.py:1713
+msgid ""
+"Maximum Timeshift length per Event reached!\n"
+"Restarting Timeshift now ..."
+msgstr ""
+
+#: plugin.py:304
+msgid "Merging Timeshift files"
+msgstr ""
+
+#: plugin.py:2065
+msgid "No HDD found or HDD not initialized!"
+msgstr ""
+
+#: plugin.py:993
+msgid "No Timeshift found to save as recording!"
+msgstr ""
+
+#: plugin.py:1130
+#, python-format
+msgid ""
+"Not enough free Diskspace!\n"
+"\n"
+"Filesize: %sMB\n"
+"Free Space: %sMB\n"
+"Path: %s"
+msgstr ""
+
+#: plugin.py:2139
+msgid "OK"
+msgstr ""
+
+#: plugin.py:990
+#, python-format
+msgid "PTS Plugin Error: %s"
+msgstr ""
+
+#: plugin.py:2164
+msgid "PTS infobar skin"
+msgstr ""
+
+#: plugin.py:1333
+msgid "PTS-Plugin: Merging records failed!"
+msgstr ""
+
+#: plugin.py:864
+msgid "PTS-Plugin: Restarting Timeshift!"
+msgstr ""
+
+#: plugin.py:2249 plugin.py:2257
+msgid "Permanent Timeshift"
+msgstr ""
+
+#: plugin.py:2256
+msgid "Permanent Timeshift Settings"
+msgstr ""
+
+#: plugin.py:2257
+msgid "Permanent Timeshift settings"
+msgstr ""
+
+#: plugin.py:2170
+msgid "Permanent timeshift start delay (sec)"
+msgstr ""
+
+#: plugin.py:909
+msgid "Record"
+msgstr ""
+
+#: plugin.py:1658
+msgid "Record started! Stopping timeshift now ..."
+msgstr ""
+
+#: plugin.py:870
+msgid "Save Timeshift as Movie and continue recording"
+msgstr ""
+
+#: plugin.py:869
+msgid "Save Timeshift as Movie and stop recording"
+msgstr ""
+
+#: plugin.py:76
+msgid "Save and record"
+msgstr ""
+
+#: plugin.py:76
+msgid "Save and stop"
+msgstr ""
+
+#: plugin.py:263
+msgid "Saving Timeshift files"
+msgstr ""
+
+#: plugin.py:1126
+msgid "Saving timeshift as movie now. This might take a while!"
+msgstr ""
+
+#: plugin.py:2161
+msgid "Show PTS Infobar while timeshifting"
+msgstr ""
+
+#: plugin.py:2181
+msgid "Show timeshift indicator in window"
+msgstr ""
+
+#: plugin.py:2180
+msgid "Show warning on zap if not Live TV or not save action"
+msgstr ""
+
+#: plugin.py:2178
+msgid "Show warning on zap if not save action"
+msgstr ""
+
+#: plugin.py:2083
+msgid "Start recording?"
+msgstr ""
+
+#: plugin.py:767
+msgid "Stop Timeshift on the current channel?"
+msgstr ""
+
+#: plugin.py:2172
+msgid "Stop timeshift while recording"
+msgstr ""
+
+#: plugin.py:765
+msgid "Stop timeshift?"
+msgstr ""
+
+#: plugin.py:1238
+msgid ""
+"The Filesystem on your Timeshift-Device does not support hardlinks.\n"
+"Make sure it is formated in EXT2 or EXT3!"
+msgstr ""
+
+#: plugin.py:868
+msgid ""
+"The Timeshift record was not saved yet!\n"
+"What do you want to do now with the timeshift file?"
+msgstr ""
+
+#: plugin.py:459 plugin.py:2078 plugin.py:2079 plugin.py:2088 plugin.py:2089
+msgid "Timeshift"
+msgstr ""
+
+#: plugin.py:2159
+msgid "Timeshift duration for service without EPG (min)"
+msgstr ""
+
+#: plugin.py:2157
+msgid "Timeshift max events"
+msgstr ""
+
+#: plugin.py:2158
+msgid "Timeshift max length event (min)"
+msgstr ""
+
+#: plugin.py:2156
+msgid "Timeshift mode"
+msgstr ""
+
+#: plugin.py:1140
+msgid "Timeshift save failed!"
+msgstr ""
+
+#: plugin.py:1398
+msgid "Timeshift saved to your harddisk!"
+msgstr ""
+
+#: plugin.py:2125
+msgid "Timeshift setup menu"
+msgstr ""
+
+#: plugin.py:2168
+msgid "Timeshift start delay (wake device)"
+msgstr ""
+
+#: plugin.py:2107
+msgid "Timeshift will get saved at end of event!"
+msgstr ""
+
+#: plugin.py:2160
+msgid "Timeshift-save action on zap"
+msgstr ""
+
+#: plugin.py:2229
+msgid ""
+"To apply this settings (Z position or PTS infobar skin), you need a restart "
+"GUI!"
+msgstr ""
+
+#: plugin.py:911
+msgid "Which event do you want to save permanently?"
+msgstr ""
+
+#: plugin.py:2185
+msgid "X position (upper-left corner of srceen)"
+msgstr ""
+
+#: plugin.py:2186
+msgid "Y position (upper-left corner of srceen)"
+msgstr ""
+
+#: plugin.py:2187
+msgid "Z position (priority of srceen)"
+msgstr ""
+
+#: plugin.py:2074 plugin.py:2086
+msgid "add recording (enter recording duration)"
+msgstr ""
+
+#: plugin.py:2075 plugin.py:2087
+msgid "add recording (enter recording endtime)"
+msgstr ""
+
+#: plugin.py:2073 plugin.py:2085
+msgid "add recording (indefinitely)"
+msgstr ""
+
+#: plugin.py:2072 plugin.py:2084
+msgid "add recording (stop after current event)"
+msgstr ""
+
+#: plugin.py:79
+msgid "automatic (permanent)"
+msgstr ""
+
+#: plugin.py:93
+msgid "blink"
+msgstr ""
+
+#: plugin.py:97
+msgid "blue"
+msgstr ""
+
+#: plugin.py:2076
+msgid "change recording (duration)"
+msgstr ""
+
+#: plugin.py:2077
+msgid "change recording (endtime)"
+msgstr ""
+
+#: plugin.py:97
+msgid "clock (white)"
+msgstr ""
+
+#: plugin.py:74
+msgid "default"
+msgstr ""
+
+#: plugin.py:84
+msgid "disabled"
+msgstr ""
+
+#: plugin.py:2080
+msgid "do nothing"
+msgstr ""
+
+#: plugin.py:2090
+msgid "don't record"
+msgstr ""
+
+#: plugin.py:1189
+msgid "instant record"
+msgstr ""
+
+#: plugin.py:79
+msgid "manual (standart)"
+msgstr ""
+
+#: plugin.py:97
+msgid "maroon"
+msgstr ""
+
+#: plugin.py:74
+msgid "new"
+msgstr ""
+
+#: plugin.py:86
+msgid "open setup"
+msgstr ""
+
+#: plugin.py:80
+msgid "pause"
+msgstr ""
+
+#: plugin.py:97
+msgid "red"
+msgstr ""
+
+#: plugin.py:2079 plugin.py:2089
+msgid "save recording (Select event)"
+msgstr ""
+
+#: plugin.py:2078 plugin.py:2088
+msgid "save recording (stop after current event)"
+msgstr ""
+
+#: plugin.py:93
+msgid "static"
+msgstr ""
+
+#: plugin.py:2071
+msgid "stop recording"
+msgstr ""
+
+#: plugin.py:86
+msgid "stop timeshift"
+msgstr ""
+
+#: plugin.py:97
+msgid "white"
+msgstr ""

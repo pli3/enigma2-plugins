@@ -1,10 +1,21 @@
 <keymap>
 	<map context="PTS_GlobalActions">
-		<key id="KEY_RECORD" mapto="instantRecord" flags="m" />
+		<key id="KEY_RESTART" mapto="stop2Timeshift" flags="m" />
+		<key id="KEY_STOP" mapto="stopTimeshift" flags="b" />
+		<key id="KEY_STOP" mapto="openSetup" flags="l" />
 	</map>
 	<map context="PTS_SeekPointerActions">
 		<key id="KEY_OK" mapto="SeekPointerOK" flags="m" />
 		<key id="KEY_LEFT" mapto="SeekPointerLeft" flags="mr" />
 		<key id="KEY_RIGHT" mapto="SeekPointerRight" flags="mr" />
 	</map>
+	<map context="InfobarPTSRecord">
+		<key id="KEY_RECORD" mapto="instantRecord" flags="b" />
+		<key id="KEY_RECORD" mapto="eventList" flags="l" />
+		<device name="dreambox remote control (native)">
+			<key id="KEY_RED" mapto="instantRecord" flags="b" />
+			<key id="KEY_RED" mapto="eventList" flags="l" />
+		</device>
+	</map>
 </keymap>
+

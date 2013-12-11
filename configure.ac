@@ -54,6 +54,8 @@ Extensions/MyTube/src/Makefile
 Extensions/MyTube/po/Makefile
 Extensions/PermanentTimeshift/Makefile
 Extensions/PermanentTimeshift/images/Makefile
+Extensions/PermanentTimeshift/images/icon/Makefile
+Extensions/PermanentTimeshift/images/now/Makefile
 Extensions/PermanentTimeshift/locale/Makefile
 Extensions/PermanentTimeshift/locale/de/Makefile
 Extensions/PermanentTimeshift/locale/de/LC_MESSAGES/Makefile
