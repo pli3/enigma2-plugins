@@ -38,6 +38,7 @@ AC_OUTPUT([
 Makefile
 PLi/Makefile
 PLi/SoftcamSetup/Makefile
+PLi/SoftcamSetup/images/Makefile
 PLi/SoftcamSetup/src/Makefile
 PLi/SoftcamSetup/po/Makefile
 Extensions/Makefile
